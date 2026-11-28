@@ -1,0 +1,7 @@
+Folder: /tmp/sc-split-pr/parts
+Files:
+Arm.sc
+Base.sc
+Beam.sc
+Pin.sc
+rig.sc
